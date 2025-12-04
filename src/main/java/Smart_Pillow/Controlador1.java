@@ -9,6 +9,6 @@ public class Controlador1 {
 
     @GetMapping("/hola")
     public String decirHola() {
-        return "¡Hola Mundo! Este es mi primer controlador en Spring Boot.";
+        return "¡Hola Mundo! Este es mi primer controlador, en Spring Boot.";
     }
 }
