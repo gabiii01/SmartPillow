@@ -10,6 +10,6 @@ public class HolaController {
 
     @GetMapping("/natalia")
     public String hola() {
-        return "¡Hola desde la rama de Natalia!";
+        return "Hola desde la rama de Natalia";
     }
 }
