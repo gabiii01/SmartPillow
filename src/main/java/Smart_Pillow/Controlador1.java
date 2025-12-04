@@ -1,4 +1,4 @@
-package Smart_Pillow; // Asegúrate de que este sea el paquete correcto
+package Smart_Pillow; 
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
